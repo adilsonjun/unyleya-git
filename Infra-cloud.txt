@@ -1,0 +1,7 @@
+Infraestrutura de Cloud Computing
+
+
+ Conceitos e definições de IaaS, Paas e SaaS, que são os pilares da cloud computing. A importância da IAC (Infraestrutura como código). Infraestrutura ágil seguindo as práticas DevOps: Ambientes automatizados, infraestrutura com testes, controle de versão, ambientes temporários, pipeline de entrega, monitoramento, microsserviços, compliance, segurança etc.
+
+Tutor: JAMISSON FREITAS
+
